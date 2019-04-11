@@ -2,6 +2,7 @@
   "name": "players_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dionne03.github.io/players_react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -9,7 +10,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    "homepage": "https://dionne03.github.io/players_react/",
+    
     "predeploy": "yarn run build",
    "deploy": "gh-pages -d build", 
     "start": "react-scripts start",
