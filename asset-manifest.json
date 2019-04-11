@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.252a1b83.chunk.css",
-  "main.js": "/static/js/main.7d96c5cd.chunk.js",
-  "main.js.map": "/static/js/main.7d96c5cd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.308e4fd85cd22c1fe61bdb4915500abe.js": "/precache-manifest.308e4fd85cd22c1fe61bdb4915500abe.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.252a1b83.chunk.css.map": "/static/css/main.252a1b83.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/players_react/static/css/main.252a1b83.chunk.css",
+  "main.js": "/players_react/static/js/main.8edb27cf.chunk.js",
+  "main.js.map": "/players_react/static/js/main.8edb27cf.chunk.js.map",
+  "runtime~main.js": "/players_react/static/js/runtime~main.0955616c.js",
+  "runtime~main.js.map": "/players_react/static/js/runtime~main.0955616c.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/players_react/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/players_react/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/players_react/index.html",
+  "precache-manifest.115a1bc2210b94442db9a54fd25e41fd.js": "/players_react/precache-manifest.115a1bc2210b94442db9a54fd25e41fd.js",
+  "service-worker.js": "/players_react/service-worker.js",
+  "static/css/main.252a1b83.chunk.css.map": "/players_react/static/css/main.252a1b83.chunk.css.map",
+  "static/media/logo.svg": "/players_react/static/media/logo.5d5d9eef.svg"
 }
